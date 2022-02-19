@@ -1,7 +1,3 @@
-# Roadmap (updated at 19 Feb 2022)
-- [ ] Upgrade to support php 8.0
-- [ ] Upgrade to support Graph API v13.0
-
 # Facebook SDK for PHP (v5)
 
 [![Build Status](https://img.shields.io/travis/facebook/php-graph-sdk/5.x.svg)](https://travis-ci.org/facebook/php-graph-sdk)
