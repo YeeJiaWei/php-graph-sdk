@@ -2,6 +2,10 @@
 
 ## NOTICE: This branch is under active development. For the stable release please use the [5.x branch](https://github.com/facebook/php-graph-sdk/tree/5.x).
 
+# Roadmap (updated at 19 Feb 2022)
+- [ ] Upgrade to support php 8.0
+- [ ] Upgrade to support Graph API v13.0
+
 [![Build Status](https://img.shields.io/travis/facebook/php-graph-sdk/master.svg)](https://travis-ci.org/facebook/php-graph-sdk)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/facebook/php-graph-sdk/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/facebook/php-graph-sdk/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/facebook/php-graph-sdk/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/facebook/php-graph-sdk/?branch=master)
